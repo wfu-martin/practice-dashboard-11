@@ -1,11 +1,11 @@
-# Project: <dashboard name>
+# Project: Vinyl Vault dashboard
 
-<One sentence: who the dashboard is for and the decision it helps them make.>
+A dashboard for the Director of Sales at Vinyl Vault Music, to decide where next year's marketing budget goes (which genres and countries) and whether to hire another sales support rep.
 
 | | |
 |---|---|
-| Stakeholder | <name and role, from the brief> |
-| Database | `<database name>` on the course server |
+| Stakeholder | Morgan Ellis, Director of Sales |
+| Database | `vinyl_vault` on the course server |
 | Spec | `spec.md` (the source of truth for what to build) |
 | Design | `design.md` (each screen as drawn, and the style rules) |
 | Plan | `ROADMAP.md` for phases; GitHub Issues for tasks |
